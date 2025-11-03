@@ -1,7 +1,7 @@
 # Portfolio
 
 Here is my portfolio of non‑NDA projects I have worked on.  
-Each project includes source code and (optionally) screenshots or PDF descriptions.
+There are links and PDF description.
 
 ## Projects
 
